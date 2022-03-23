@@ -4,6 +4,8 @@
 
 Basic React app that transforms markdown text into the corresponding HTML code.
 
+![Markdown Preview](https://github.com/sudarshan-sh/MarkdownPreviewApp/blob/main/images/markdown-app.png)
+
 ##  Functional
 
 *   When a user enters in markdown input file, markdown preview will get output accordingly using react-markdown.
